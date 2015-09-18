@@ -5,13 +5,14 @@ package com.javafx.helloword;
 import com.google.inject.Guice;
 import com.google.inject.Inject;
 import com.google.inject.Injector;
+import com.javafx.helloword.control.HelloWordControl;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class HelloWord extends Application{
-	
+	@Inject
 	private HelloWordControl control;
 	
 	@Override

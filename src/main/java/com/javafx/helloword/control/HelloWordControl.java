@@ -1,4 +1,4 @@
-package com.javafx.helloword;
+package com.javafx.helloword.control;
 
 import java.awt.Dialog;
 import java.io.File;
@@ -6,6 +6,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 import com.google.inject.Inject;
+import com.javafx.helloword.entity.CardUser;
 
 import io.advantageous.guicefx.LoadedBy;
 import javafx.collections.FXCollections;

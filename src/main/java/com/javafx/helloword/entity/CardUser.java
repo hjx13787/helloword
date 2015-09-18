@@ -1,4 +1,4 @@
-package com.javafx.helloword;
+package com.javafx.helloword.entity;
 
 public class CardUser {
 	private String identifier;

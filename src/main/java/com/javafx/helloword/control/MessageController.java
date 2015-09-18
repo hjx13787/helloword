@@ -1,4 +1,4 @@
-package com.javafx.helloword;
+package com.javafx.helloword.control;
 
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
